@@ -1,0 +1,7 @@
+.git
+node_modules
+.local
+/tmp
+*.log
+.expo
+.cache
